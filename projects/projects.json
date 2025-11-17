@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Student Manager",
+    "desc": "Hệ thống quản lý sinh viên viết bằng PHP–MySQL, có tính năng CRUD và phân trang.",
+    "image": "project3",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-Commerce",
+    "desc": "Website bán hàng đơn giản với giỏ hàng, đăng nhập, và quản trị sản phẩm.",
+    "image": "project4",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Landing Page",
+    "desc": "Landing page quảng cáo sản phẩm, thiết kế responsive bằng HTML – CSS – JS.",
+    "image": "project5",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Notes App",
+    "desc": "Ứng dụng ghi chú hỗ trợ CRUD, lưu SQLite và giao diện Material Design.",
+    "image": "project7",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Portfolio Mini",
+    "desc": "Portfolio cá nhân đơn giản, tập trung trình bày thông tin và liên hệ nhanh.",
+    "image": "project6",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Weather App",
+    "desc": "Ứng dụng xem thời tiết theo vị trí, gọi API OpenWeather, viết bằng Kotlin.",
+    "image": "project8",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Social App",
+    "desc": "Ứng dụng mạng xã hội nhỏ với đăng bài, theo dõi và chat thời gian thực (Socket.IO).",
+    "image": "project1",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Todo Manager",
+    "desc": "Website quản lý công việc với xác thực JWT, MongoDB Atlas và UI React hiện đại.",
+    "image": "project2",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
